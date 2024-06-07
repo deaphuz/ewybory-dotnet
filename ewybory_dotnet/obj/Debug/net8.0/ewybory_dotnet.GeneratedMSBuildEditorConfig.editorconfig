@@ -1,0 +1,271 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ewybory_dotnet
+build_property.RootNamespace = ewybory_dotnet
+build_property.ProjectDir = C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Elections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Elections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Elections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Elections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Elections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/GroupElections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBFbGVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/GroupElections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBFbGVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/GroupElections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBFbGVjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/GroupElections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBFbGVjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/GroupElections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBFbGVjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Groups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Groups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Groups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Groups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Groups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Organizers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Organizers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Organizers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Organizers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Organizers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Results/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Results/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Results/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Results/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Results/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/VoterGroups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJHcm91cHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/VoterGroups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJHcm91cHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/VoterGroups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJHcm91cHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/VoterGroups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJHcm91cHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/VoterGroups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJHcm91cHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Voters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Voters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Voters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Voters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Voters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Votes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Votes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Votes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Votes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Votes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/ewybory_dotnet/ewybory_dotnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1k9jpocwna

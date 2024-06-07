@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\services\\recaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\services\\recaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\areas\\identity\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\areas\\identity\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\areas\\identity\\data\\authorizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\areas\\identity\\data\\authorizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Migrations\\AuthorizationDb\\20240606144730_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ewybory_dotnet\\Migrations\\AuthorizationDb\\20240606144730_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|c:\\users\\marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FEE07C-317A-483A-B05F-46A789CAD1AC}|ewybory_dotnet\\ewybory_dotnet.csproj|solutionrelative:ewybory_dotnet\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VotersController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Controllers\\VotersController.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Controllers\\VotersController.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Controllers\\VotersController.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Controllers\\VotersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:10:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReCAPTCHAService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Services\\ReCAPTCHAService.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Services\\ReCAPTCHAService.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Services\\ReCAPTCHAService.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Services\\ReCAPTCHAService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:36:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAUwKAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:31:41.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\appsettings.json",
+              "RelativeToolTip": "ewybory_dotnet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T14:59:21.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Program.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:36:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "ewybory_dotnet\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T07:29:49.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAmwIEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:25:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T15:04:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ewybory_dotnet\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T14:48:07.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ewybory_dotnet\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T07:29:37.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ewybory_dotnet\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:30:21.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorizationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Data\\AuthorizationDbContext.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Areas\\Identity\\Data\\AuthorizationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Data\\AuthorizationDbContext.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Areas\\Identity\\Data\\AuthorizationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:40:14.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Data\\User.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Areas\\Identity\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Areas\\Identity\\Data\\User.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Areas\\Identity\\Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:38:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ewybory_dotnet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T14:34:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Controllers\\ResultsController.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwGQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:30:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240606144730_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Migrations\\AuthorizationDb\\20240606144730_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Migrations\\AuthorizationDb\\20240606144730_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Migrations\\AuthorizationDb\\20240606144730_InitialMigration.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Migrations\\AuthorizationDb\\20240606144730_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:47:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "ewybory_dotnet\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\Marcin\\source\\repos\\ewybory_dotnet\\ewybory_dotnet\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "ewybory_dotnet\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAmwOQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:30:38.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿@model ewybory_dotnet.Models.VoterGroup
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>VoterGroup</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Voter)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Voter.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Group)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Group.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.VoterGroupId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
