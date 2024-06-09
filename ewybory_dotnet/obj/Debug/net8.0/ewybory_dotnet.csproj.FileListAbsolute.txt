@@ -264,3 +264,5 @@ C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\bin\Debug\net8.0\Micr
 C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\bin\Debug\net8.0\DotNetEd.CoreAdmin.dll
+C:\Users\Marcin\source\repos\ewybory_dotnet\ewybory_dotnet\bin\Debug\net8.0\Mvc.Grid.Core.dll

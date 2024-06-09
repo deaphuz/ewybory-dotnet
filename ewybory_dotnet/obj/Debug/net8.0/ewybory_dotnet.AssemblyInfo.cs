@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ewybory_dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e10a8ed4dd03a2c831cd1ceae0a577e6edba2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feb14a522f355d8f129446ce0ac601695e064ee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ewybory_dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ewybory_dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

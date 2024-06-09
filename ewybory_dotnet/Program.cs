@@ -5,6 +5,7 @@ using ewybory_dotnet.Areas.Identity.Data;
 using Microsoft.AspNetCore.Identity;
 using ewybory_dotnet.Services;
 
+
 namespace ewybory_dotnet
 {
     public class Program
@@ -29,6 +30,7 @@ namespace ewybory_dotnet
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddCoreAdmin();
 
             builder.Services.AddAuthorization();
 
@@ -36,6 +38,7 @@ namespace ewybory_dotnet
 
             builder.Services.AddRazorPages();
             builder.Services.AddHttpClient();
+            builder.Services.AddCoreAdmin();
             builder.Services.AddTransient<ReCAPTCHAService>();
 
             var app = builder.Build();
@@ -50,6 +53,12 @@ namespace ewybory_dotnet
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+
+            app.UseCoreAdminCustomAuth((context) =>
+            {
+                return context.User.Identity.IsAuthenticated && context.User.IsInRole("Admin");
+            });
 
             app.UseCors(
                 options => options
